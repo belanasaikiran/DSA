@@ -2,13 +2,13 @@
 
 DSA - C++
 
-## Order:
+## Essential Concepts:
 
-1. [Arrays](Arrays/)
-2. [Structures](Structures/)
-3. [Pointers](Pointers/)
-4. [Pointer to Structures](PointerToStructures/)
-5. [References](References/)
-6. [Functions](Functions/)
-   a. [ParameterPassing](Functions/ParameterPassing/)
-7. [Array as Parameters](ArrayAsParameter/)
+1. [Arrays](Essential_Concepts/Arrays/)
+2. [Structures](Essential_Concepts/Structures/)
+3. [Pointers](Essential_Concepts/Pointers/)
+4. [Pointer to Structures](Essential_Concepts/PointerToStructure/)
+5. [References](Essential_Concepts/Reference/)
+6. [Functions](Essential_Concepts/Functions/)
+   a. [ParameterPassing](Essential_Concepts/Functions/ParameterPassing/)
+7. [Array as Parameters](Essential_Concepts/ArrayAsParameter/)
