@@ -17,3 +17,5 @@ DSA - C++
 10. [Convert a C program to a C++ class](Essential_Concepts/ConvertCProgramToC++)
 11. [Monolithic Program](Essential_Concepts/MonolithicProgram/)
 12. [Modular Program](Essential_Concepts/ModularProgram/)
+13. [Practice: Structure and Functions](Essential_Concepts/Practice:StructureAndFunctions/)
+14. [Practice: Object-Oriented Programming](Essential_Concepts/Practice:Object-OrientedProgramming/)
